@@ -1,0 +1,161 @@
+.pt__base {
+    position: relative;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.pt__base::before,
+.pt__base::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: calc(50% - 300px);
+    display: none;
+    z-index: 20;
+}
+
+.pt__base::before {
+    left: 0;
+    background: linear-gradient(to right, #fff 20%, rgba(255, 255, 255, 0));
+}
+
+.pt__base::after {
+    right: 0;
+    background: linear-gradient(to left, #fff 20%, rgba(255, 255, 255, 0));
+}
+
+.pt__title {
+    margin: 0 auto;
+    padding: 64px 16px;
+    max-width: 600px;
+    box-sizing: border-box;
+    box-shadow: -300px 0 0 #fff, 300px 0 0 #fff;
+}
+
+.pt__titleIcon {
+    width: 48px;
+}
+
+.pt__header {
+    position: sticky;
+    top: 148px;
+    background: #fff;
+    z-index: 10;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.pt__base--activeC2 .pt__c2,
+.pt__base--activeC3 .pt__c3,
+.pt__base--activeC4 .pt__c4 {
+    font-weight: bold;
+    box-shadow: 0 1px 0 0 #000;
+}
+
+.pt__base--activeC2 .pt__c1,
+.pt__base--activeC3 .pt__c1,
+.pt__base--activeC4 .pt__c1 {
+    font-weight: normal;
+    box-shadow: none;
+}
+
+.pt__header .pt__c1 {
+    display: none;
+}
+
+.pt__header .pt__c2,
+.pt__header .pt__c3,
+.pt__header .pt__c4 {
+    display: flex;
+    justify-content: center;
+}
+
+.pt__row {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.pt__rowContent {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.pt__tab {
+    position: relative;
+    background: transparent;
+    border: 0;
+    outline: none;
+    font-family: 'Press Start 2P', monospace;
+    cursor: pointer;
+}
+
+.pt__tabText {
+    transition: transform ease-in 0.125s;
+    pointer-events: none;
+}
+
+.pt__tab:disabled {
+    color: inherit;
+}
+
+.pt__tab:hover > .pt__tabText {
+    transform: scale(1.4);
+}
+
+.pt__tab:focus::before {
+    content: '';
+    position: absolute;
+    inset: 4px;
+    border: 1px dotted black;
+    display: block;
+}
+
+.pt__c1,
+.pt__c2,
+.pt__c3,
+.pt__c4 {
+    padding: 0 8px;
+    height: 48px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.pt__c1 {
+    display: flex;
+    font-size: 24px;
+    background: white;
+    z-index: 1;
+}
+
+.pt__c1 {
+    padding-left: 16px;
+    flex: 0 0 48px;
+}
+
+.pt__c2,
+.pt__c3,
+.pt__c4 {
+    display: none;
+}
+
+.pt__c2,
+.pt__c3,
+.pt__c4 {
+    display: flex;
+    flex: 0 1 100%;
+    justify-content: flex-end;
+}
+
+.pt__c4 {
+    padding-right: 16px;
+}
+
+.pt__base--activeC2 .pt__c2,
+.pt__base--activeC3 .pt__c3,
+.pt__base--activeC4 .pt__c4 {
+    display: flex;
+}

@@ -1,0 +1,112 @@
+.footer__base {
+    position: relative;
+    background: #fff;
+    z-index: 10;
+    transform: translateZ(0);
+    border-top: 1px solid #f0f0f0;
+}
+
+.footer__content {
+    margin: 0 auto;
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.footer__option {
+    flex: 1 0 auto;
+}
+
+.footer__optionSpacer {
+    position: relative;
+    width: 100%;
+    border-right: 1px solid #f0f0f0;
+    box-shadow: inset -1px 0 0 0 #fff, inset 1px 0 0 0 #f0f0f0, inset 0 0 0 1px #fff;
+    background:
+        repeating-linear-gradient(
+            45deg,
+            transparent,
+            transparent 4px,
+            #f0f0f0 4px,
+            #f0f0f0 5px
+        );
+}
+
+.footer__link,
+.footer__button {
+    position: relative;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 52px;
+    line-height: 32px;
+    box-sizing: border-box;
+}
+
+.footer__link {
+    padding: 8px 16px 28px;
+    font-size: 9px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+.footer__linkIcon {
+    image-rendering: pixelated;
+    transition: transform ease-in 0.125s;
+}
+
+.footer__linkIcon:hover {
+    image-rendering: auto;
+    transform: scale(1.4);
+}
+
+.footer__linkText {
+    display: none;
+}
+
+.footer__button {
+    padding: 8px 8px 28px;
+    font-size: 16px;
+    border: 0;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+}
+
+.footer__buttonIcon {
+    transition: transform ease-in 0.125s;
+}
+
+.footer__buttonIcon:hover {
+    transform: scale(1.4);
+}
+
+.footer__toggleButton::before {
+    content: '';
+    position: absolute;
+    top: 24px;
+    left: 50%;
+    width: 32px;
+    height: 4px;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    z-index: 1;
+    background: #f00;
+    background-clip: content-box;
+    box-sizing: border-box;
+    transition: padding linear 0.125s;
+    padding-right: 32px;
+}
+
+.footer__toggleButton.is-disabled .footer__buttonIcon {
+    filter: grayscale(1);
+}
+
+.footer__toggleButton.is-disabled::before {
+    padding-right: 0;
+}
+
+.footer__modalButton.is-open {
+    box-shadow: 0 -1px 0 0 #000;
+}

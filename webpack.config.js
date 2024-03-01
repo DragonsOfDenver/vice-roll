@@ -4,11 +4,11 @@ const childProcess = require('child_process');
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
-const ESLintPlugin = require('eslint-webpack-plugin');
+//const ESLintPlugin = require('eslint-webpack-plugin');
 const hasha = require('hasha');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const StyleLintPlugin = require('stylelint-webpack-plugin');
+//const StyleLintPlugin = require('stylelint-webpack-plugin');
 const webpack = require('webpack');
 const WorkboxWebpackPlugin = require('workbox-webpack-plugin');
 
@@ -90,7 +90,7 @@ module.exports = (env, {
         },
 
         plugins: [
-            new ESLintPlugin({ fix: true }),
+            //new ESLintPlugin({ fix: true }),
 
             new HtmlWebpackPlugin({
                 filename: path.resolve(__dirname, 'dist/index.html'),
@@ -111,9 +111,9 @@ module.exports = (env, {
                 filename: PROD ? '[name].[contenthash].css' : '[name].[fullhash].css',
             }),
 
-            new StyleLintPlugin({
+            /*new StyleLintPlugin({
                 fix: true,
-            }),
+            }),*/
 
             new CopyWebpackPlugin({
                 patterns: [{

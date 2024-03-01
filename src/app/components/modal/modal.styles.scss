@@ -13,8 +13,7 @@
         transform: translate(-50%, 0);
         box-sizing: border-box;
         display: none;
-        overflow-x: hidden;
-        overflow-y: auto;
+        overflow: hidden auto;
         user-select: auto;
         padding-bottom: 64px;
         z-index: 100;

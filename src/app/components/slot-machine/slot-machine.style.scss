@@ -38,7 +38,7 @@
         background: var(--bg);
         border-radius: 100%;
         overflow: hidden;
-        box-shadow: 0 0 calc(var(--shadowWeight) * var(--reelSize)) 0 rgba(0, 0, 0, 0.125);
+        box-shadow: 0 0 calc(var(--shadowWeight) * var(--reelSize)) 0 rgb(0 0 0 / 12.5%);
         will-change: transform;
 
         &:first-child,
@@ -80,7 +80,7 @@
     }
 
     &__display {
-        --displayShadowColor: rgba(0, 0, 0, 0.125);
+        --displayShadowColor: rgb(0 0 0 / 12.5%);
 
         position: absolute;
         top: 50%;
@@ -94,15 +94,15 @@
         mix-blend-mode: color;
 
         &.is-win {
-            --displayShadowColor: rgba(127, 160, 0, 0.5);
+            --displayShadowColor: rgb(127 160 0 / 50%);
 
-            background: rgb(127, 160, 0);
+            background: rgb(127 160 0);
         }
 
         &.is-fail {
-            --displayShadowColor: rgba(255, 0, 0, 0.25);
+            --displayShadowColor: rgb(255 0 0 / 25%);
 
-            background: rgb(255, 0, 0);
+            background: rgb(255 0 0);
         }
     }
 }

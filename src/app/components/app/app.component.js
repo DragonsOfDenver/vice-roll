@@ -1,7 +1,8 @@
 import { createWeb3Modal, defaultWagmiConfig } from '@web3modal/wagmi';
-import { mainnet, arbitrum, sepolia } from 'viem/chains';
+import { sepolia } from 'viem/chains';
 import { reconnect } from '@wagmi/core';
 
+import web3 from '../web3/web3.ts';
 import { SYMBOLS_RANDOM } from '../../constants/symbols.constants';
 import { IS_DESKTOP } from '../../constants/browser.constants';
 import { SlotMachine } from '../slot-machine/slot-machine.component';
@@ -215,6 +216,10 @@ export class App {
         localStorage.lastSpin = this.lastSpin = Date.now();
 
         this.refreshGameInfo();
+
+        alert('send a request to the smart contract to +1 coin');
+
+
     }
 
     handleGetPrice(jackpotPercentage) {
@@ -224,6 +229,9 @@ export class App {
         localStorage.coins = this.coins += price;
 
         this.refreshGameInfo();
+
+        alert('send a request to the smart contract to - Jackpot');
+
     }
 
     refreshGameInfo() {

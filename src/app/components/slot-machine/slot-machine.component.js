@@ -338,10 +338,7 @@ export class SlotMachine {
 
         if (currentReel === null) {
 
-            this.start();
-
-            /*
-            if (window.confirm('You are about to submit 1 coin:')) {
+            if (window.confirm('You are about to submit 1 token:')) {
 
                 // console.log('You pressed OK!');
                 this.start();
@@ -349,16 +346,9 @@ export class SlotMachine {
             } else {
                 // console.log('You pressed Cancel!');
 
-                return;
 
-            } */
+            }
 
-
-            const mainEl = document.getElementById('main');
-
-            console.log(mainEl);
-
-            mainEl.style.pointerEvents = false;
 
         } else {
 

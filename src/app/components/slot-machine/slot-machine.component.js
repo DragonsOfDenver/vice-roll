@@ -338,6 +338,9 @@ export class SlotMachine {
 
         if (currentReel === null) {
 
+
+            this.start();
+            /*
             if (window.confirm('You are about to submit 1 token:')) {
 
                 // console.log('You pressed OK!');
@@ -347,7 +350,7 @@ export class SlotMachine {
                 // console.log('You pressed Cancel!');
 
 
-            }
+            } */
 
 
         } else {

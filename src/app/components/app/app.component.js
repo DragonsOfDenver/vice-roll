@@ -34,6 +34,7 @@ const handleOptionChange = (key, value) => {
 
 };
 
+
 // 1. Define constants
 const projectId = '5272cfced8202e5c3dc121652aa0934d';
 
@@ -217,7 +218,7 @@ export class App {
 
         this.refreshGameInfo();
 
-        alert('send a request to the smart contract to +1 coin');
+        alert('send a request to the smart contract for +1 coin');
 
 
     }
@@ -230,7 +231,7 @@ export class App {
 
         this.refreshGameInfo();
 
-        alert('send a request to the smart contract to - Jackpot');
+        alert('send a request to the smart contract for - Jackpot');
 
     }
 
@@ -252,7 +253,7 @@ export class App {
 
         if (IS_DESKTOP) {
             // TODO: Move to toggle button?
-            document.querySelector(App.S_TOGGLE_VIBRATION).parentElement.setAttribute('hidden', true);
+            // document.querySelector(App.S_TOGGLE_VIBRATION).parentElement.setAttribute('hidden', true);
             // TODO: Move to instructions modal?
             document.querySelector(App.S_VIBRATION_INSTRUCTIONS).setAttribute('hidden', true);
         }

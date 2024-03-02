@@ -20,12 +20,20 @@
 
 <br />
 
-<h1 align="center">Hi 👋, We are Vice Roll Casino</h1>
-<h3 align="center">A Lossless Casino built at ETH DENVER 2024 - Turn Your Vices 👿 Into Virtues 😇 In A Casino For Public Good! 🎲 🎲</h3>
+<h1 align="center">Hi 👋, We are the Vice Roll Team</h1>
+<h3 align="center">We made a Lossless Casino built at ETH DENVER 2024 - Turn Your Vices 👿 Into Virtues 😇 In A Casino For Public Good! 🎲 🎲</h3>
 
-- 🔭 We researched some casual games **Like Slot Machines**
+- 🔭 We researched casual games - Like Slot Machines!! 
 
-- 🌱 We made a first fork of a game **Javascript, online at https://viceroll.casino/**
+- 🌱 We tested our fist fork game with Javascript, online at https://viceroll.casino/
+
+- 🌱 We made a DAO to receive gaming funds used for public good, online at https://snapshot.org/#/viceroll.eth/about
+
+- 🌱 We made a player's reward token that can be used for voting and rebasing
+
+- 🌱 We made our gaming contract to resolve player events and token rewards on-chain, online at https://viceroll.casino/
+
+- 🌱 Next steps for us: Expand our players reward infrastructure (more contrats, more games, more vices => virtures)
 
 - ⚡ Fun fact **3 of us are brand new to eth denver**
 
@@ -53,15 +61,7 @@
 <p align="center">
 <img width="591" alt="Screenshot 2024-03-02 at 12 32 25 AM" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/9ace6b13-8adc-4352-81d8-c90c28779b5e"></p>
 <p align="center">
-<img width="1067" alt="Screenshot 2024-03-02 at 12 20 29 AM" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/9d0144ac-ff52-4b53-9303-c44085ca15d5"></p>
-
-
-<p align="center">
-<img width="402" alt="Screenshot 2024-03-01 at 12 06 31 PM" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/7d9fe856-9f72-4b26-a785-364568b110be"></p>
-
-
-
-
+<img width="700" alt="Screenshot 2024-03-02 at 12 20 29 AM" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/9d0144ac-ff52-4b53-9303-c44085ca15d5"></p>
 
 <p align="center">
     <img width="400" alt="Screenshot 4" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/eeada65f-6679-4e7d-a919-8737e10ed8c0">

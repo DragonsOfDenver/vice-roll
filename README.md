@@ -68,7 +68,15 @@
 <h3 align="left">Learn about the game and dao:</h3>
 
 
-
+![1](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/ceef1831-cad9-43d3-b184-185d959b0da6)
+![2](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/b6040dab-3f89-4454-9c41-d61e7786d90a)
+![3](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/a3b8cec3-b598-4b3d-8b8c-3f69ff7928b2)
+![4](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/96a65eb7-c149-4fb2-86b8-b384e07c6b6c)
+![5](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/124aa706-9105-4eeb-8be9-d3e406e17fb1)
+![6](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/2c7228a1-2e55-48fb-8237-48dbe8665972)
+![7](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/5eded148-4a7b-4c2d-87c5-40ed1ed381d6)
+![8](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/364277df-a9ef-4a9c-b1bf-d15a9f7cf937)
+![9](https://github.com/DragonsOfDenver/vice-roll/assets/25784418/dbb23acd-c21f-4683-ad1b-57a93dcf25e4)
 
 
 
@@ -88,7 +96,13 @@
     <img width="400" alt="Screenshot 4" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/eeada65f-6679-4e7d-a919-8737e10ed8c0">
 </p>
 <p align="center">
+    into
+</p>
+<p align="center">
     <img width="400" alt="Screenshot 5" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/93d7eaa9-18aa-4875-84eb-557071c19514">
+</p>
+<p align="center">
+    made with ❤️
 </p>
 <p align="center">
     <img width="400" alt="Screenshot 6" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/b91b0675-9e24-4536-bc53-23fd542173c2">

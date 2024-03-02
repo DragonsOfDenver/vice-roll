@@ -31,7 +31,7 @@
 
 - 🌱 We made a player's reward token that can be used for voting and rebasing $COPE
 
-- 🌱 We made our gaming contract to resolve player events and token rewards on-chain, online at https://sepolia.etherscan.io/address/0xf9CA920eBE7BA15DB6F69eeab56f86F7Bc506b6a 
+- 🌱 We made our gaming contract to resolve player events and token rewards on-chain, online at https://sepolia.etherscan.io/address/0x9f2590ade279e711365280224241b1f3ad3a9aef 
 
 - 🌱 Next steps for us: Expand our players reward infrastructure (more contrats, more games, more vices => virtures)
 

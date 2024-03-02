@@ -3,18 +3,18 @@
 <img width="364" alt="Screenshot 2024-03-01 at 12 06 17 PM" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/b3453efb-a18c-435b-a9e4-073e58b8054d"></p>
 
 
+
 <p align="center">
     🎰 Gaming for Good - with a "lossless" casino
 </p><p align="center">
     🚀 Try it out at <a href="https://viceroll.casino">viceroll.casino</a>!
-</p><
+</p>
 
 <br />
 
 
 <p align="center">
-    <a href="https://danziger.github.io/slotjs" target="_blank">
-        <img src="./static/screenshots/slotjs.png" />
+    <img width="700" alt="demo" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/67069a47-ccf0-4954-b30a-ec1a8a692711">
     </a>
 </p>
 
@@ -93,4 +93,4 @@
 <p align="center">
     <img width="400" alt="Screenshot 6" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/b91b0675-9e24-4536-bc53-23fd542173c2">
 </p>
-
+<h3 align="left">** note that viceroll.casino uses 3 blocks for confirmation of the random number(we will be improving the speed, thanks for your patience)</h3>

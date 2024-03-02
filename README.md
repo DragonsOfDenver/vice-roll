@@ -29,15 +29,15 @@
 
 - 🌱 We made a DAO to receive gaming funds used for public good, online at https://snapshot.org/#/viceroll.eth/about
 
-- 🌱 We made a player's reward token that can be used for voting and rebasing
+- 🌱 We made a player's reward token that can be used for voting and rebasing $COPE
 
-- 🌱 We made our gaming contract to resolve player events and token rewards on-chain, online at https://viceroll.casino/
+- 🌱 We made our gaming contract to resolve player events and token rewards on-chain, online at https://sepolia.etherscan.io/address/0xf9CA920eBE7BA15DB6F69eeab56f86F7Bc506b6a 
 
 - 🌱 Next steps for us: Expand our players reward infrastructure (more contrats, more games, more vices => virtures)
 
-- ⚡ Fun fact **3 of us are brand new to eth denver**
+- ⚡ Fun fact **3 of us are brand new to eth denver, and we are from 3 differnt countries**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/vice_roll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vice_roll" height="30" width="40" /></a>
 </p>
@@ -45,6 +45,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Meet the team and our ETH Denver friends:</h3>
 
 </p>
 <p align="center">
@@ -62,6 +63,26 @@
 <img width="591" alt="Screenshot 2024-03-02 at 12 32 25 AM" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/9ace6b13-8adc-4352-81d8-c90c28779b5e"></p>
 <p align="center">
 <img width="700" alt="Screenshot 2024-03-02 at 12 20 29 AM" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/9d0144ac-ff52-4b53-9303-c44085ca15d5"></p>
+
+
+<h3 align="left">Learn about the game and dao:</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
     <img width="400" alt="Screenshot 4" src="https://github.com/DragonsOfDenver/vice-roll/assets/25784418/eeada65f-6679-4e7d-a919-8737e10ed8c0">
